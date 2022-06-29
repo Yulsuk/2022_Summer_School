@@ -2,6 +2,4 @@
 ## Github 원격지 저장 활용 시험
 ### Github 원격지 저장 활용 시험
 * GitHub test *
-#This
-##Is
-###Edited
+This Is Edited
