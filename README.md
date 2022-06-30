@@ -80,8 +80,9 @@ print('1 ~ 100 까지 짝수 합 : {0}, 홀수 합 : {1}'.format(e_tot, o_tot))
 
 ## Link
 //참조 링크
-Link : [google][googlelink]
-[googlelink] : https://google.co.kr "Let's go Google"
+Link: [google][googlelink]
+
+[googlelink]: https://google.co.kr "Let's go Google"
 
 //외부링크
 [Google](https://google.co.kr "Let's Go Google")
