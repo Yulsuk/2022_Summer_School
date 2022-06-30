@@ -100,7 +100,7 @@ Naver Homepage: <https://naver.com>
 ## 영상
 ![test_pic](pic.png "pic")
 ![test_pic](https://github.com/Yulsuk/2022_Summer_School/blob/main/pic.png "pic")
-![logo] : https://github.com/Yulsuk/2022_Summer_School/blob/main/pic.png "pic"
+![test_pic](https://static.wikia.nocookie.net/redvelvet/images/e/ee/Joy_Hello_digital_album_cover.png/revision/latest?cb=20210531094601 "hello")
 
 ### 제목3
 
