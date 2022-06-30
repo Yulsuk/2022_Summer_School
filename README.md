@@ -78,6 +78,10 @@ print('1 ~ 100 까지 짝수 합 : {0}, 홀수 합 : {1}'.format(e_tot, o_tot))
 - - -
 * * *
 
+## Link
+Link : [github][githublink]
+[githublink] : https://github.com/Yulsuk/2022_Summer_School/blob/main/README.md "내 깃허브"
+
 ### 제목3
 
 #### 제목4
