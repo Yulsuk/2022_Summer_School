@@ -95,10 +95,12 @@ Naver Homepage: <https://naver.com>
 이텔릭체 *별표* 혹은 _언더바_ 를 사용  
 두껍게는 **별표** 혹은 __언더바__ 를 사용  
 **_이텔릭체_와 두껍게** 를 같이 사용 가능  
-취소선은 ~~물결표시~~ 를 사용  
+취소선은 ~~물결표시~~ 를 사용
 
 ##영상
 ![test_pic](pic.png "pic")
+![test_pic](https://github.com/Yulsuk/2022_Summer_School/blob/main/pic.png "pic")
+[logo] : https://github.com/Yulsuk/2022_Summer_School/blob/main/pic.png "pic"
 
 ### 제목3
 
