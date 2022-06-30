@@ -100,7 +100,18 @@ Naver Homepage: <https://naver.com>
 ## 영상
 ![test_pic](pic.png "pic")
 ![test_pic](https://github.com/Yulsuk/2022_Summer_School/blob/main/pic.png "pic")
-![test_pic](https://static.wikia.nocookie.net/redvelvet/images/e/ee/Joy_Hello_digital_album_cover.png/revision/latest?cb=20210531094601 "hello")
+
+크기조절
+<img src="pic.png" width="450px" height="300px" title="px(픽셀)크기 설정" alt="testpic"></img><br/>
+
+## 주석
+이것은 주석 테스트입니다.[^1]
+주석은 다수의 줄을 가질 수 있습니다.[^2]
+단어 또한 쓸 수 있고, 글쓰기 스타일에 따라 맞출 수 있습니다.[^note]
+[^1] : 첫 레퍼런스
+[^2] : 두 번째 레퍼런스
+[^note] : 세 번째 레퍼런스
+
 
 ### 제목3
 
