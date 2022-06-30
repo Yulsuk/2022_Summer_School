@@ -1,5 +1,5 @@
-# 2022_Summer_School
-## Github 원격지 저장 활용 시험
-### Github 원격지 저장 활용 시험
-* GitHub test *
-This Is Edited
+소속 : 국립안동대교, 컴퓨터공학과 
+=======================
+
+이름 : HaBo
+-------------
