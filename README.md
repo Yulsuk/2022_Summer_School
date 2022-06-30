@@ -66,7 +66,7 @@
 ' ``` ' 으로 묶거나
 
 ```
-	<pre><code>'{code}'</code></pre>
+	<pre><code>{code}</code></pre>
 ```
 으로 처리함
 
