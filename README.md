@@ -89,6 +89,13 @@ Link: [google][googlelink]
 
 자동링크
 Google Homepage: https://google.co.kr
+Naver Homepage: <https://naver.com>
+
+## 강조
+이텔릭체 *별표* 혹은 _언더바_ 를 사용
+두껍게는 **별표** 혹은 __언더바__ 를 사용
+**_이텔릭체_와 두껍게** 를 같이 사용 가능
+취소선은 ~~물결표시~~ 를 사용
 
 ### 제목3
 
