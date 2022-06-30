@@ -88,7 +88,7 @@ Link: [google][googlelink]
 [Google](https://google.co.kr "Let's Go Google")
 
 자동링크
-Google Homepage: https://google.co.kr
+Google Homepage: https://google.co.kr  
 Naver Homepage: <https://naver.com>
 
 ## 강조
@@ -96,6 +96,9 @@ Naver Homepage: <https://naver.com>
 두껍게는 **별표** 혹은 __언더바__ 를 사용  
 **_이텔릭체_와 두껍게** 를 같이 사용 가능  
 취소선은 ~~물결표시~~ 를 사용  
+
+##영상
+![test_pic](pic.png "pic")
 
 ### 제목3
 
