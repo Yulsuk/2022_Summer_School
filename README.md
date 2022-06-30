@@ -51,19 +51,19 @@
 누리호 성공 축하
 
 ## 코드
-'''
-e_tot = 0
-o_tot = 0
-for x in range(1, 101):
-    if x % 2 == 0  :
-        e_tot += x
-    else :
-        o_tot += x
+```
+	e_tot = 0
+	o_tot = 0
+	for x in range(1, 101):
+	    if x % 2 == 0  :
+	        e_tot += x
+	    else :
+	        o_tot += x
+	
+	print('1 ~ 100 까지 짝수 합 : {0}, 홀수 합 : {1}'.format(e_tot, o_tot))
+```
 
-print('1 ~ 100 까지 짝수 합 : {0}, 홀수 합 : {1}'.format(e_tot, o_tot))
-'''
-
-''' 으로 묶거나
+``` 으로 묶거나
 <pre><code>{code}</code></pre> 으로 처리함
 
 ### 제목3
